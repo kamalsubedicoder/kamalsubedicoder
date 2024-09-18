@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamalsubedicoder
 - 👀 I’m interested in Data Science and machine learning. 
-- 🌱 I’m currently learning web scraping and UT Austin data science course. 
+- 🌱 Recently Graduated Machine learning reseacher.  
 - 💞️ I’m looking to collaborate on Data science, machine learning and medic related projects. 
 - 📫 Please email me at aarav.subedi16@gmail.com
 
