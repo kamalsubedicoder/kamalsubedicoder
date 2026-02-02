@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kamalsubedicoder
-- 👀 I’m interested in Data Science and machine learning. 
+- 👋 Hi, I’m kamal subedi
+- 👀 Experienced machine learning and Data Scientist. 
 - 🌱 Recently Graduated Machine learning reseacher.  
-- 💞️ I’m looking to collaborate on Data science, machine learning and medic related projects. 
+- 💞️ I’m looking to collaborate on Data science, machine learning and biomedical related projects. 
 - 📫 Please email me at aarav.subedi16@gmail.com
 
 <!---
